@@ -1,0 +1,13 @@
+websockets
+numpy 
+pyaudio
+torch
+torchaudio
+transformers
+librosa 
+soundfile 
+accelerate
+peft 
+bitsandbytes
+datasets
+
